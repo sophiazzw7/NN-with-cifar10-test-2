@@ -4,7 +4,7 @@ Another trial using different activation function
 
 Setting:
 --------------------
-Structure of NN (like fully connected,convolutional ,etc.): Fully connected
+Structure of NN: Fully connected
 
 Activation function: Linear, then ReLU
 
@@ -14,9 +14,9 @@ Nodes within each layer: 1024
 
 Loss function: Cross-Entropy
 
-Software used for training (e.g., TensorFlow, PyTorch, Keras): Keras
+Software used for training: Keras
 
-Data set (e.g., MNIST fashion, Cat/Noncat, etc) : Cifar-10
+Data set: Cifar-10
 
 Results:
 --------------------
