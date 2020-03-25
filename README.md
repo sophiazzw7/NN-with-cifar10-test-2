@@ -1,5 +1,7 @@
 # NN_with_cifar10_test_2
-Another trial using different activation function:
+Another trial using different activation function
+
+
 Setting:
 --------------------
 Structure of NN (like fully connected,convolutional ,etc.): Fully connected
